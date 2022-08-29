@@ -1,5 +1,5 @@
 # Shiba-Classic-Contract-Code
-This is the original code which was used to deploy Shiba Classic to the Ethereum Classic Chain via Hebeswap.
+This is the original code which was used to deploy Shiba Classic to the Ethereum Classic chain via Hebeswap.
 
 It is a fork of Shiba Inu, adapted for ETC. 
 
